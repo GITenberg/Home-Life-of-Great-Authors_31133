@@ -1,0 +1,36 @@
+_repo: Home-Life-of-Great-Authors_31133
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31133-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Griswold, Hattie Tyng
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '35018'
+    url: http://www.gutenberg.org/2009/agents/35018
+description: ''
+gutenberg_issued: '2010-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Biography'
+- !lcsh 'Literary landmarks'
+- !lcc 'PN'
+tableOfContents: Goethe -- Robert Burns -- Madame de Staël -- William Wordsworth --
+  Thomas De Quincey -- Walter Scott -- Charles Lamb -- Christopher North -- Lord Byron
+  -- Shelley -- Washington Irving -- William Cullen Bryant -- Ralph Waldo Emerson
+  -- Thomas Carlyle -- Victor Hugo -- George Sand -- Thomas Babington Macaulay --
+  Edward Bulwer Lytton -- Alfred Tennyson -- Nathaniel Hawthorne -- Henry W. Longfellow
+  -- John G. Whittier -- Oliver Wendell Holmes -- James Russell Lowell -- Robert and
+  Elizabeth Browning -- Charlotte Bronté -- Margaret Fuller -- Edgar Allen Poe --
+  William Makepeace Thackeray -- Charles Dickens -- George Eliot -- Charles Kingsley
+  -- John Ruskin.
+title: Home Life of Great Authors
+url: http://www.gutenberg.org/ebooks/31133
